@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
 plotly
 kaleido
+=======
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+kaleido
+>>>>>>> 8a4a54c98ff8b9a1113fa9eb42c74d0851ef25de
